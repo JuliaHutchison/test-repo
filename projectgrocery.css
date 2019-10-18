@@ -1,0 +1,57 @@
+
+#title{
+    color: rgb(51, 82, 112);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+}
+
+#buttonsub{
+    padding:9px;
+    background-color: blanchedalmond;
+    font-family:'Montserrat', sans-serif;
+    cursor: pointer;
+}
+#buttonsub:hover{
+    background-color: rgb(173, 131, 131);
+}
+
+#buttonadd{
+    padding:9px;
+    background-color: blanchedalmond;
+    font-family:'Montserrat', sans-serif;
+    cursor: pointer;
+}
+#buttonadd:hover{
+    background-color: rgb(173, 131, 131);
+}
+#list{
+    font-family:'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: justify;
+}
+#color{
+    background-color: rgb(229, 243, 248);
+}
+#paragraphs{
+    font-size: 30px;
+}
+#buttonerase{
+    padding:9px;
+    background-color: blanchedalmond;
+    font-family:'Montserrat', sans-serif;
+    position: absolute;
+    margin-left:25vh;
+    top:500px;
+    cursor: pointer;
+}
+#buttonerase:hover{
+    background-color: rgb(173, 131, 131);
+}
+#center{
+    min-width: 500px;
+    min-height: 600px;
+    margin-left:55vh;
+
+}
